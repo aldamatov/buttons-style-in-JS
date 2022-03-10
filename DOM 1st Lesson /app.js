@@ -12,3 +12,4 @@ for (let i = 0; i < buttons.length; i++){
 
     buttons[3].style.display = "block";
     buttons[3].style.width = "31rem";
+    buttons[3].innerText += "th button";
